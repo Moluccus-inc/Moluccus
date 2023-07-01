@@ -1,40 +1,21 @@
-# Next.js & NextUI Template
+# This is the official Moluccus website
 
-This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
+Welcoming you as moluccus
+Turning an idea into reality, shaping a reality into something better and making something better greater.
+A start for a new beginning with moluccus
 
-## Technologies Used
+# Up comming Projects
 
-- [Next.js 13](https://nextjs.org/docs/getting-started)
-- [NextUI v2](https://nextui-docs-v2.vercel.app/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [next-themes](https://github.com/pacocoursey/next-themes)
+[ x ] Application
+<li> Music Application
+<li> Dating Application
+<li> Android launcher
+<li> Messaging Application sms
+<li> File manager with cloud sync
+<li> Mobile os
+<li> Operating system
+<li> Web browser
+<li> Dashboard manager
+<li> Mobile house
 
-## How to Use
-
-
-### Use the template with create-next-app
-
-To create a new project based on this template using `create-next-app`, run the following command:
-
-```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run the development server
-
-```bash
-npm run dev
-```
-
-## License
-
-Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+[ x ] <h3>IDE<h3/>
