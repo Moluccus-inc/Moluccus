@@ -64,9 +64,9 @@ export default function PricingPage() {
                       <path
                         d="m2.5 9 3 3 8.028-8"
                         stroke="currentColor"
-                        stroke-width="1.5"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       ></path>
                     </svg>
                     <span className="text-primary">5 GB storage</span>
@@ -145,9 +145,9 @@ export default function PricingPage() {
                       <path
                         d="m2.5 9 3 3 8.028-8"
                         stroke="currentColor"
-                        stroke-width="1.5"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       ></path>
                     </svg>
                     <span className="text-primary">
@@ -232,9 +232,9 @@ export default function PricingPage() {
                       <path
                         d="m2.5 9 3 3 8.028-8"
                         stroke="currentColor"
-                        stroke-width="1.5"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       ></path>
                     </svg>
                     <span className="text-primary">
@@ -317,9 +317,9 @@ export default function PricingPage() {
                       <path
                         d="m2.5 9 3 3 8.028-8"
                         stroke="currentColor"
-                        stroke-width="1.5"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       ></path>
                     </svg>
                     <span className="text-primary">

@@ -87,10 +87,10 @@ export default function AboutPage() {
                 className="text-pink-500"
               >
                 <g
-                  clip-path="url(#a)"
-                  clip-rule="evenodd"
+                  clipPath="url(#a)"
+                  clipRule="evenodd"
                   fill="currentColor"
-                  fill-rule="evenodd"
+                  fillRule="evenodd"
                 >
                   <path d="M21.865 5.166A11.945 11.945 0 0 1 24 12.001c0 2.54-.789 4.895-2.135 6.834l-3.109-3.109A7.679 7.679 0 0 0 19.714 12a7.679 7.679 0 0 0-.958-3.725l3.109-3.109Z"></path>
                   <path d="m18.834 2.135-3.108 3.109a7.714 7.714 0 1 0 0 13.513l3.108 3.108A11.946 11.946 0 0 1 12 24C5.373 24 0 18.627 0 12S5.373 0 12 0c2.54 0 4.895.789 6.834 2.135Z"></path>
@@ -108,11 +108,11 @@ export default function AboutPage() {
               fill="none"
               focusable="false"
               height="18"
-              shape-rendering="geometricPrecision"
+              shapeRendering="geometricPrecision"
               stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="1.5"
               viewBox="0 0 24 24"
               width="18"
               className="text-white"
@@ -144,7 +144,7 @@ export default function AboutPage() {
                 xmlns="http://www.w3.org/2000/svg"
                 className="text-pink-500"
               >
-                <g clip-path="url(#a)" fill="currentColor">
+                <g clipPath="url(#a)" fill="currentColor">
                   <path d="M15.294 17.986c4.766 0 8.63-4.026 8.63-8.993C23.923 4.026 20.06 0 15.293 0c-4.766 0-8.63 4.026-8.63 8.993 0 4.967 3.864 8.993 8.63 8.993ZM4.218 0H0v23.991h4.218V0Z"></path>
                 </g>
                 <defs>
@@ -160,11 +160,11 @@ export default function AboutPage() {
               fill="none"
               focusable="false"
               height="18"
-              shape-rendering="geometricPrecision"
+              shapeRendering="geometricPrecision"
               stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="1.5"
               viewBox="0 0 24 24"
               width="18"
               className="text-white"
@@ -196,7 +196,7 @@ export default function AboutPage() {
                 xmlns="http://www.w3.org/2000/svg"
                 className="text-pink-500"
               >
-                <g clip-path="url(#a)" fill="currentColor">
+                <g clipPath="url(#a)" fill="currentColor">
                   <path d="M15.294 17.986c4.766 0 8.63-4.026 8.63-8.993C23.923 4.026 20.06 0 15.293 0c-4.766 0-8.63 4.026-8.63 8.993 0 4.967 3.864 8.993 8.63 8.993ZM4.218 0H0v23.991h4.218V0Z"></path>
                 </g>
                 <defs>
@@ -212,11 +212,11 @@ export default function AboutPage() {
               fill="none"
               focusable="false"
               height="18"
-              shape-rendering="geometricPrecision"
+              shapeRendering="geometricPrecision"
               stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="1.5"
               viewBox="0 0 24 24"
               width="18"
               className="text-white"
