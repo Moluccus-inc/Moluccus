@@ -107,12 +107,12 @@ export default function Home() {
       <div className="hidden lg:flex flex-col relative z-20 w-1/2">
         <div
           className="flex flex-col overflow-hidden height-auto text-foreground box-border bg-content1 border border-boundary outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background shadow-lg rounded-xl transition-transform-background motion-reduce:transition-none max-w-[300px] absolute left-[80px] -top-[80px] animate-[levitate_16s_ease_infinite] border-none"
-          tabIndex="-1"
+          
         >
           <div className="flex p-3 z-10 w-full items-center shrink-0 overflow-inherit color-inherit subpixel-antialiased rounded-t-xl justify-between">
             <div className="flex gap-5">
               <span
-                tabindex="-1"
+                
                 className="flex relative justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs bg-default text-default-foreground rounded-full ring-0 ring-offset-0 ring-offset-background dark:ring-offset-background-dark ring-default"
               >
                 <Image
@@ -457,7 +457,7 @@ export default function Home() {
               >
                 {/** 1 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(130px, 0px)" }}
                 >
@@ -477,7 +477,7 @@ export default function Home() {
 
                 {/** 2 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(118.761px, 52.8758px)" }}
                 >
@@ -497,7 +497,7 @@ export default function Home() {
 
                 {/** 3 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(86.987px, 96.6088px)" }}
                 >
@@ -511,7 +511,7 @@ export default function Home() {
 
                 {/** 4 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-16 h-16 text-base text-warning-foreground rounded-full ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-warning ring absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(40.1722px, 123.637px)" }}
                 >
@@ -525,7 +525,7 @@ export default function Home() {
 
                 {/** 5 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-13.5887px, 129.288px)" }}
                 >
@@ -539,7 +539,7 @@ export default function Home() {
 
                 {/** 6 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-65px, 112.583px)" }}
                 >
@@ -553,7 +553,7 @@ export default function Home() {
 
                 {/** 7 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-primary-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-focus absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-105.172px, 76.4121px)" }}
                 >
@@ -567,7 +567,7 @@ export default function Home() {
 
                 {/** 8 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-16 h-16 text-base text-warning-foreground rounded-full ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-warning ring absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-127.159px, 27.0285px)" }}
                 >
@@ -581,7 +581,7 @@ export default function Home() {
 
                 {/** 9 */}
                 <span
-                  tabindex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-127.159px, -27.0285px)" }}
                 >
@@ -595,7 +595,7 @@ export default function Home() {
 
                 {/** 10 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-105.172px, -76.4121px)" }}
                 >
@@ -609,7 +609,7 @@ export default function Home() {
 
                 {/** 11 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-65px, -112.583px)" }}
                 >
@@ -629,7 +629,7 @@ export default function Home() {
 
                 {/** 12 */}
                 <span
-                  tabindex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(-13.5887px, -129.288px)" }}
                 >
@@ -643,7 +643,7 @@ export default function Home() {
 
                 {/** 13 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(40.1722px, -123.637px)" }}
                 >
@@ -663,7 +663,7 @@ export default function Home() {
 
                 {/** 14 */}
                 <span
-                  tabindex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(86.987px, -96.6088px)" }}
                 >
@@ -677,7 +677,7 @@ export default function Home() {
 
                 {/** 15 */}
                 <span
-                  tabIndex="-1"
+                  
                   className="flex justify-center items-center box-border overflow-hidden align-middle z-10 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background w-10 h-10 text-xs text-default-foreground rounded-full ring-2 ring-offset-2 ring-offset-background dark:ring-offset-background-dark ring-default absolute cursor-pointer bg-transparent before:bg-white/10 before:content-[''] before:block before:z-[-1] before:absolute before:inset-0 before:backdrop-blur-md before:backdrop-saturate-200"
                   style={{ transform: "translate(118.761px, -52.8758px)" }}
                 >
@@ -870,7 +870,7 @@ export default function Home() {
         <div className="flex flex-wrap gap-3 mt-6">
           <a
             className="no-underline hover:opacity-80 active:opacity-50 transition-opacity z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none font-normal subpixel-antialiased data-[pressed=true]:scale-95 overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background px-3 min-w-[6rem] h-8 text-sm gap-2 rounded-md [&amp;>svg]:max-w-[2em] transition-transform-colors motion-reduce:transition-none bg-default-100 dark:bg-default-50 text-default-700"
-            tabIndex="0"
+            
             role="button"
             href="#"
             target="_blank"
@@ -884,7 +884,7 @@ export default function Home() {
               viewBox="0 0 512 512"
               width="1em"
               className="text-lg text-[#ff4785]"
-              tabIndex="-1"
+              
             >
               <g>
                 <path
@@ -898,7 +898,7 @@ export default function Home() {
 
           <a
             className="no-underline hover:opacity-80 active:opacity-50 transition-opacity z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none font-normal subpixel-antialiased data-[pressed=true]:scale-95 overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background px-3 min-w-[6rem] h-8 text-sm gap-2 rounded-md [&amp;>svg]:max-w-[2em] transition-transform-colors motion-reduce:transition-none bg-default-100 dark:bg-default-50 text-default-700"
-            tabIndex="0"
+            
             role="button"
             href="#"
             target="_blank"
@@ -915,7 +915,7 @@ export default function Home() {
               width="1em"
               xmlns="http://www.w3.org/2000/svg"
               className="text-2xl text-[#E53E3E]"
-              tabindex="-1"
+              
             >
               <path d="M288 288h-32v-64h32v64zm288-128v192H288v32H160v-32H0V160h576zm-416 32H32v128h64v-96h32v96h32V192zm160 0H192v160h64v-32h64V192zm224 0H352v128h64v-96h32v96h32v-96h32v96h32V192z"></path>
             </svg>
@@ -924,7 +924,7 @@ export default function Home() {
 
           <a
             className="no-underline hover:opacity-80 active:opacity-50 transition-opacity z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none font-normal subpixel-antialiased data-[pressed=true]:scale-95 overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background px-3 min-w-[6rem] h-8 text-sm gap-2 rounded-md [&amp;>svg]:max-w-[2em] transition-transform-colors motion-reduce:transition-none bg-default-100 dark:bg-default-50 text-default-700"
-            tabindex="0"
+            
             role="button"
             href="#"
             target="_blank"
@@ -936,7 +936,7 @@ export default function Home() {
               width="24"
               aria-hidden="true"
               focusable="false"
-              tabIndex="-1"
+              
             >
               <path
                 clip-rule="evenodd"
@@ -950,7 +950,7 @@ export default function Home() {
 
           <a
             className="no-underline hover:opacity-80 active:opacity-50 transition-opacity z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none font-normal subpixel-antialiased data-[pressed=true]:scale-95 overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-none data-[focus-visible=true]:ring-2 data-[focus-visible=true]:ring-focus data-[focus-visible=true]:ring-offset-2 data-[focus-visible=true]:ring-offset-background px-3 min-w-[6rem] h-8 text-sm gap-2 rounded-md [&amp;>svg]:max-w-[2em] transition-transform-colors motion-reduce:transition-none bg-default-100 dark:bg-default-50 text-default-700"
-            tabindex="0"
+            
             role="button"
             href="#"
             target="_blank"
@@ -962,7 +962,7 @@ export default function Home() {
               width="24"
               aria-hidden="true"
               focusable="false"
-              tabindex="-1"
+              
             >
               <path
                 clip-rule="evenodd"
